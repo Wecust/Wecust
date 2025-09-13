@@ -11,7 +11,6 @@
 
 - ⚡ Факты обо мне **Начинающий инди-разработчик**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
